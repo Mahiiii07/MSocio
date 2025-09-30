@@ -30,12 +30,6 @@ mSocio/
 └─ images/           # Asset library (profiles, stories, feeds, logo)
 ```
 
-Logo preview:
-
-![mSocio Logo](images/social%20logo.png)
-
----
-
 ### 🛠️ Getting Started
 
 You have two simple options to run the project locally.
@@ -76,6 +70,7 @@ Tip: Keep class names descriptive and group related styles for readability.
 - Thanks to the open web platform for keeping frontend simple and fun 💛
 
 Have fun exploring and customizing mSocio! 🎉
+
 
 
 
